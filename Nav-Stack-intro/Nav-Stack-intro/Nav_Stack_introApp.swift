@@ -12,7 +12,8 @@ struct Nav_Stack_introApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            NavWithValue()
+//            NavWithValue()
+            NavWithList()
         }
     }
 }

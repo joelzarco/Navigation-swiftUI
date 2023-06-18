@@ -15,6 +15,8 @@
 		958F0F4E2A3E5B0A0097529B /* NavWithValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958F0F4D2A3E5B0A0097529B /* NavWithValue.swift */; };
 		958F0F502A3E5BD30097529B /* DetailWithVal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958F0F4F2A3E5BD30097529B /* DetailWithVal.swift */; };
 		958F0F522A3E5D180097529B /* CustomerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958F0F512A3E5D180097529B /* CustomerView.swift */; };
+		958F0F542A3E6BB50097529B /* NavWithList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958F0F532A3E6BB50097529B /* NavWithList.swift */; };
+		958F0F562A3E6D930097529B /* CustomerDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958F0F552A3E6D930097529B /* CustomerDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		958F0F4D2A3E5B0A0097529B /* NavWithValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavWithValue.swift; sourceTree = "<group>"; };
 		958F0F4F2A3E5BD30097529B /* DetailWithVal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailWithVal.swift; sourceTree = "<group>"; };
 		958F0F512A3E5D180097529B /* CustomerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerView.swift; sourceTree = "<group>"; };
+		958F0F532A3E6BB50097529B /* NavWithList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavWithList.swift; sourceTree = "<group>"; };
+		958F0F552A3E6D930097529B /* CustomerDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,9 +68,11 @@
 				958F0F4B2A3E524F0097529B /* DetailsView.swift */,
 				958F0F4D2A3E5B0A0097529B /* NavWithValue.swift */,
 				958F0F4F2A3E5BD30097529B /* DetailWithVal.swift */,
+				958F0F512A3E5D180097529B /* CustomerView.swift */,
+				958F0F532A3E6BB50097529B /* NavWithList.swift */,
+				958F0F552A3E6D930097529B /* CustomerDetail.swift */,
 				958F0F412A3E51800097529B /* Assets.xcassets */,
 				958F0F432A3E51800097529B /* Preview Content */,
-				958F0F512A3E5D180097529B /* CustomerView.swift */,
 			);
 			path = "Nav-Stack-intro";
 			sourceTree = "<group>";
@@ -153,7 +159,9 @@
 				958F0F3E2A3E517E0097529B /* Nav_Stack_introApp.swift in Sources */,
 				958F0F522A3E5D180097529B /* CustomerView.swift in Sources */,
 				958F0F4C2A3E524F0097529B /* DetailsView.swift in Sources */,
+				958F0F562A3E6D930097529B /* CustomerDetail.swift in Sources */,
 				958F0F4E2A3E5B0A0097529B /* NavWithValue.swift in Sources */,
+				958F0F542A3E6BB50097529B /* NavWithList.swift in Sources */,
 				958F0F502A3E5BD30097529B /* DetailWithVal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
