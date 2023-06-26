@@ -24,7 +24,6 @@ struct Programmatic_navApp: App {
         WindowGroup {
             NavigationStack(path: $navigationState.routes){
                 ContentView()
-                    
                     .navigationDestination(for: Route.self) { route in
                         switch route{
                         case .home:
